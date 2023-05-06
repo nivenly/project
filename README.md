@@ -23,7 +23,7 @@ for your project, you will need to formally submit an
 application.
 
 1. Fork this repository
-1. Copy the `applications/PROJECT-TEMPLATE` file and name it `myproject-application`
+1. Copy the `applications/PROJECT-TEMPLATE.md` file and name it `myproject-application.md`
    * We understand that projects are at different stages in age/development.
      please complete the application with as much detail as is known and
      relevant to your project.
