@@ -12,7 +12,7 @@ The maintenance of this project is stewarded by the **Nivenly Foundation**.
 1. Email the Nivenly Foundation at [info@nivenly.org](mailto:info@nivenly.org) with:
   * A short description of the project
   * A short explanation of your needs
-1. If the project maintainers and Nivenly determine that Nivenly
+2. If the project maintainers and Nivenly determine that Nivenly
    can assist with the needs of the project, the project will
    need to create a formal application.
 
